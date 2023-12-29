@@ -1,6 +1,7 @@
 <h1 align="center">Portifólio - Joao Castelo 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
+![screencapture-127-0-0-1-5500-index-html-2023-12-29-16_43_09](https://github.com/joaocastelo1/portifolio-devjc/assets/70186314/f9bdccb6-7493-4f48-9a2e-01758c4e7076)
+
 
 <h4 align="center"><a href="https://github.com/joaocastelo1/port-js-jc2">Confira o projeto aqui</a></h4>
 
